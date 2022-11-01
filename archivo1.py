@@ -1,4 +1,8 @@
 print("hola")
 
 def funcion1():
-    pass
+    print("pruebas")
+
+def funcion_ramanoche():
+    suma =5+6
+    print(suma)
