@@ -5,4 +5,5 @@ def funcion1():
 
 def funcion_ramanoche():
     suma =5+6
-    print(suma)
+    print("ok")
+
