@@ -11,3 +11,5 @@ funcion_ramanoche()
 funcion1()
 
 print("fin")
+def mejoria():
+    print("¿Esta bien?")
